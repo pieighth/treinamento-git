@@ -5,4 +5,8 @@ public class Calculadora {
 		return i + j;
 	}
 
+	public int subtracao(int i, int j) {
+		return i - j;
+	}
+
 }
