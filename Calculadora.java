@@ -1,6 +1,9 @@
 
 public class Calculadora {
 
+	public Calculadora(){
+	}
+
 	public int soma(int i, int j) {
 		return i - j;
 	}
