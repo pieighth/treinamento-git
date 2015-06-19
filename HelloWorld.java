@@ -4,4 +4,8 @@ public class HelloWorld {
 		return 1;
 	}
 
+	public int retornaDois() {
+		return 2;
+	}
+
 }
